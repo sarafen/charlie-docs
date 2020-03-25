@@ -31,7 +31,7 @@ github_username:  jekyll
 logo: "/assets/images/charlie-typeform.svg"
 
 # Build settings
-remote_theme:  pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
