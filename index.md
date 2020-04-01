@@ -32,7 +32,7 @@ Charlie is &copy; 2009-2020 Stephen Lovell
 
 ### License
 
-Charlie is released under an MIT license.
+Charlie is released under a Hippocratic 2.1 license.
 
 ### Contributing
 
