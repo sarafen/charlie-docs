@@ -9,7 +9,7 @@ nav_order: 100
 
 ## Frontmatter
 
-A area surrounded by `---`, both before and after, at the beginning of a [Markdown](https://daringfireball.net/projects/markdown/syntax) file.
+An area surrounded by `---`, both before and after, at the beginning of a [Markdown](https://daringfireball.net/projects/markdown/syntax) file.
 
 Each line contains a named Field that can be given a value. These Fields can then be output within Templates and even within that Markdown file as Mustache Tags.
 

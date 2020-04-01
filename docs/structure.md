@@ -7,5 +7,3 @@ has_children: true
 ---
 
 # Structure
-
-this page is all about structure

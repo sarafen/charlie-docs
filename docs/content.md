@@ -7,5 +7,3 @@ has_children: true
 ---
 
 # Content
-
-this page is all about content

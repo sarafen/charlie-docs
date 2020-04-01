@@ -12,7 +12,7 @@ By default Charlie comes with a `config.json` file located in the root directory
 
 It is must be written in valid [JSON](https://www.json.org/json-en.html), be sure to adhere to that. Be especially careful of trailing commas.
 
-If you are fearful of writing raw json, you can instead use the Configurator Tool.
+<!-- If you are fearful of writing raw json, you can instead use the Configurator Tool. -->
 
 ```js
 

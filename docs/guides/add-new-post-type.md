@@ -113,23 +113,23 @@ Add the following code to your `themes/{theme_name}/pages/blog.ms` file, if this
 {{#looper.blog}}
 
 {{#item}}
+  <li>
+      <article>
+      	<h2><a href="{{{link}}}">{{title}}</a></h2>
+      	<time class="article-date">{{date}}</time>
 
-<article>
-	<h2><a href="{{{link}}}">{{title}}</a></h2>
-	<time class="article-date">{{date}}</time>
+      	<p>{{summary}}</p>
 
-	<p>{{summary}}</p>
-
-</article>
-
+      </article>
+  </li>
 {{/item}}
 
 {{^item}}
-	<li>
-		<article>
-			<h3>Nothing, Nada, Zip &hellip;</h3>
-		</article>
-	</li>
+  <li>
+    <article>
+      <h3>Nothing, Nada, Zip &hellip;</h3>
+    </article>
+  </li>
 {{/item}}
 
 {{/looper.blog}}

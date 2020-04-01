@@ -23,4 +23,4 @@ nav_order: 1
 
 ## Next Steps
 
-You can then proceed to [configure charlie](/configuration), [draft your content](/content/drafting-content), [edit the existing templates](/templates/using-templates), or [build your own theme](/guides/build-a-theme).
+You can then proceed to [configure charlie](/configuration), [draft your content](/content/drafting-content), or [edit the existing templates](/templates/using-templates).

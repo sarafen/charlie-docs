@@ -7,5 +7,3 @@ has_children: true
 ---
 
 # Guides
-
-this page is all about guides

@@ -18,6 +18,7 @@ Content is broken into three main types that load based on different criteria.
 
 Pages and Posts contain [Frontmatter](/definitions/#frontmatter) at the top of their files, which is essentially localized meta data and configuration options.
 
+
 ```html
 
 ---
@@ -31,6 +32,8 @@ summary: I could put a bunch of longer content here, and it would just keep on w
 ```
 
 The Frontmatter block must be surrounded by two horizontal lines made of `---` characters.
+
+A field cannot be defined with a blank value, and there cannot be any empty lines within the Frontmatter block.
 
 Frontmatter is followed by the page's/post's content written in [Markdown](https://daringfireball.net/projects/markdown/syntax) format style.
 
