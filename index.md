@@ -16,7 +16,7 @@ nav_order: 0
 No installation files, no database.
 {: .fs-6 .fw-300 }  
 
-[Download Charlie](/getting-started/){: .btn .btn-purple } [Get Started](/getting-started/){: .btn .btn-outline } [View it on GitHub](https://github.com/StephenLovell/charlie){: .btn .btn-outline }
+[Download Charlie](https://github.com/StephenLovell/charlie/releases/tag/v1.0.0-beta){: .btn .btn-purple } [Get Started](/getting-started/){: .btn .btn-outline } [View it on GitHub](https://github.com/StephenLovell/charlie){: .btn .btn-outline }
 
 <hr />
 
