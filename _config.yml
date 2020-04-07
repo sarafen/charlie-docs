@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A lightweight cms, built for creatives. Run your own site with less overhead and more control. No installation files, no database.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://charliecms.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://charliecms.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stephencreates
 github_username:  stephenlovell
 logo: "/assets/images/charlie-typeform.svg"
