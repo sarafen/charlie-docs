@@ -36,4 +36,4 @@ Charlie is released under a [Hippocratic 2.1 license](https://github.com/Stephen
 
 ### Contributing
 
-Please see the [Contribution Guideliens](https://github.com/StephenLovell/charlie/blob/master/CONTRIBUTING.md)
+Please see the [Contribution Guidelines](https://github.com/StephenLovell/charlie/blob/master/CONTRIBUTING.md).
