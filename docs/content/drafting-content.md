@@ -82,7 +82,7 @@ blog_img_dir: /content/blog/imgs
 ---
 ```
 
-and the same for each and work Post:
+and the same for each work Post:
 
 
 ```html

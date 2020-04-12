@@ -113,6 +113,4 @@ limit | how many to include
 offset | start list offset by a number
 
 
-You can define as many loopers as you have need of. However, be careful. Loopers are available to all pages, which means they take up memory.
-
-It's also a good idea to keep your limit within reason. If you have 300 blog posts on your site, it would not be a good idea to create a looper that has a limit of 250.
+You can define as many loopers as you have need of. However, be careful. Loopers are available to all pages, which means they take up memory.Therefore, it's also a good idea to keep your limit within reason.

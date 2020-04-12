@@ -13,13 +13,13 @@ nav_order: 1
 2. Place the entire contents of Charlie in the root directory of your webhost, ensuring the `.htaccess` file gets included.
 3. Check file/directory permissions are set appropriately. Directories set as `750`. Files set as `644`.
 
-## Install With GitHub Pages
+<!-- ## Install With GitHub Pages
 
 (forthcoming)
 
 ## Install with Netlify
 
-(forthcoming)
+(forthcoming) -->
 
 ## Next Steps
 
